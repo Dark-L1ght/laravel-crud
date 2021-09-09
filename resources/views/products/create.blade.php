@@ -30,14 +30,14 @@
     <div class="row">
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
-                <strong>Name:</strong>
-                <input type="text" name="name" class="form-control" placeholder="name">
+                <strong>Nama:</strong>
+                <input type="text" name="name" class="form-control" placeholder="Nama">
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12">
             <div class="form-group">
-                <strong>Price:</strong>
-                <input type="text" name="price" class="form-control" placeholder="Price">
+                <strong>Harga:</strong>
+                <input type="text" name="price" class="form-control" placeholder="Harga">
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12">
